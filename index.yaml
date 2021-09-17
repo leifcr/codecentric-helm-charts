@@ -1,0 +1,123 @@
+apiVersion: v1
+entries:
+  mailhog:
+  - apiVersion: v2
+    appVersion: v1.0.1
+    created: "2021-09-17T09:24:53.543220039Z"
+    description: An e-mail testing tool for developers
+    digest: 9202faba9c60f296e6dfc5aab7478e12842d32b1dd8338f1f7dda0141e1036ac
+    home: http://iankent.uk/project/mailhog/
+    icon: https://raw.githubusercontent.com/mailhog/MailHog-UI/master/assets/images/hog.png
+    keywords:
+    - mailhog
+    - mail
+    - smtp
+    - email
+    - e-mail
+    - testing
+    maintainers:
+    - email: unguiculus@gmail.com
+      name: unguiculus
+    name: mailhog
+    sources:
+    - https://github.com/mailhog/MailHog
+    type: application
+    urls:
+    - https://github.com/leifcr/codecentric-helm-charts/releases/download/mailhog-4.1.4/mailhog-4.1.4.tgz
+    version: 4.1.3
+  - apiVersion: v2
+    appVersion: v1.0.1
+    created: "2021-04-09T15:05:53.543220039Z"
+    description: An e-mail testing tool for developers
+    digest: 2377103a1208d97f8152cc316246dbfd9fc38e8dce365de5ef28cf5829b5ed6a
+    home: http://iankent.uk/project/mailhog/
+    icon: https://raw.githubusercontent.com/mailhog/MailHog-UI/master/assets/images/hog.png
+    keywords:
+    - mailhog
+    - mail
+    - smtp
+    - email
+    - e-mail
+    - testing
+    maintainers:
+    - email: unguiculus@gmail.com
+      name: unguiculus
+    name: mailhog
+    sources:
+    - https://github.com/mailhog/MailHog
+    type: application
+    urls:
+    - https://github.com/leifcr/codecentric-helm-charts/releases/download/mailhog-4.1.3/mailhog-4.1.3.tgz
+    version: 4.1.3
+  - apiVersion: v2
+    appVersion: v1.0.1
+    created: "2021-04-09T15:05:53.543220039Z"
+    description: An e-mail testing tool for developers
+    digest: 1c154938f2c02d571119f82e1275f4a7b0a6c13e501cfd63238c996658b95f21
+    home: http://iankent.uk/project/mailhog/
+    icon: https://raw.githubusercontent.com/mailhog/MailHog-UI/master/assets/images/hog.png
+    keywords:
+    - mailhog
+    - mail
+    - smtp
+    - email
+    - e-mail
+    - testing
+    maintainers:
+    - email: unguiculus@gmail.com
+      name: unguiculus
+    name: mailhog
+    sources:
+    - https://github.com/mailhog/MailHog
+    type: application
+    urls:
+    - https://github.com/leifcr/codecentric-helm-charts/releases/download/mailhog-4.1.2/mailhog-4.1.2.tgz
+    version: 4.1.2
+  - apiVersion: v2
+    appVersion: v1.0.1
+    created: "2021-04-09T15:05:53.543220039Z"
+    description: An e-mail testing tool for developers
+    digest: e4f150339dc4e2abc2e737e5b4759c766d12c2fc04076fe93c1eb7e0728cf950
+    home: http://iankent.uk/project/mailhog/
+    icon: https://raw.githubusercontent.com/mailhog/MailHog-UI/master/assets/images/hog.png
+    keywords:
+    - mailhog
+    - mail
+    - smtp
+    - email
+    - e-mail
+    - testing
+    maintainers:
+    - email: unguiculus@gmail.com
+      name: unguiculus
+    name: mailhog
+    sources:
+    - https://github.com/mailhog/MailHog
+    type: application
+    urls:
+    - https://github.com/leifcr/codecentric-helm-charts/releases/download/mailhog-4.1.1/mailhog-4.1.1.tgz
+    version: 4.1.1
+  - apiVersion: v2
+    appVersion: v1.0.1
+    created: "2021-04-09T15:05:53.543220039Z"
+    description: An e-mail testing tool for developers
+    digest: ba5b651cfb08a8690aba672f3816d56b40038141834c86cdd815457cca98a530
+    home: http://iankent.uk/project/mailhog/
+    icon: https://raw.githubusercontent.com/mailhog/MailHog-UI/master/assets/images/hog.png
+    keywords:
+    - mailhog
+    - mail
+    - smtp
+    - email
+    - e-mail
+    - testing
+    maintainers:
+    - email: unguiculus@gmail.com
+      name: unguiculus
+    name: mailhog
+    sources:
+    - https://github.com/mailhog/MailHog
+    type: application
+    urls:
+    - https://github.com/leifcr/codecentric-helm-charts/releases/download/mailhog-4.1.0/mailhog-4.1.0.tgz
+    version: 4.1.0
