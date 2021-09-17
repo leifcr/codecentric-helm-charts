@@ -3,7 +3,7 @@ entries:
   mailhog:
   - apiVersion: v2
     appVersion: v1.0.1
-    created: "2021-17-09T09:24:53.543220039Z"
+    created: "2021-09-17T09:24:53.543220039Z"
     description: An e-mail testing tool for developers
     digest: 9202faba9c60f296e6dfc5aab7478e12842d32b1dd8338f1f7dda0141e1036ac
     home: http://iankent.uk/project/mailhog/
