@@ -24,7 +24,7 @@ entries:
     type: application
     urls:
     - https://github.com/leifcr/codecentric-helm-charts/releases/download/mailhog-4.1.7/mailhog-4.1.7.tgz
-    version: 4.1.6
+    version: 4.1.7
   - apiVersion: v2
     appVersion: v1.0.1
     created: "2021-09-17T10:09:59.543220039Z"
